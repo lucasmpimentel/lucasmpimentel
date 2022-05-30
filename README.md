@@ -43,6 +43,8 @@
 </div>
 <div>
 <br>
+<br>
+<br>
 <h3>GitHub Stats</h3>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmpimentel&show_icons=true&locale=en" alt="lucasmpimentel" /></p>
