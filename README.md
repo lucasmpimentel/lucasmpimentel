@@ -35,9 +35,12 @@
 
 <h3>Trophy's</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasmpimentel" alt="lucasmpimentel" /></a> </p>
-<h3>...</h3>
+
+<h3>Most used languages on this profille</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmpimentel&show_icons=true&locale=en&layout=compact" alt="lucasmpimentel" /></p>
+<br>
 <h3>...</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmpimentel&show_icons=true&locale=en" alt="lucasmpimentel" /></p>
+<br>
 <h3>...</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmpimentel&" alt="lucasmpimentel" /></p>
