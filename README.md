@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently not working 
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift** and **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://lucasmpimentel.github.io/](https://lucasmpimentel.github.io/)
 
-- 💬 Ask me about **JavaScript, React, NodeJS, TypeScript...**
+- 💬 Ask me about **JavaScript, React, NodeJS, TypeScript, Swift, Flutter...**
 
 - 📫 How to reach me **lucas.mirandapimentel@gmail.com**
 
