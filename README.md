@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thetreelive" target="blank"><img src="https://img.shields.io/twitter/follow/thetreelive?logo=twitter&style=for-the-badge" alt="thetreelive" /></a> </p>
 
-- 🔭 I’m currently working on [XP Inc.](https://www.linkedin.com/company/xpinc/mycompany/)
+- 🔭 I’m currently not working 
 
 - 🌱 I’m currently learning **Swift**
 
