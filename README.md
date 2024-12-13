@@ -2,9 +2,6 @@
 <h3 align="center">A passionate fullstack and mobile developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmpimentel&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmpimentel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasmpimentel" alt="lucasmpimentel" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/thetreelive" target="blank"><img src="https://img.shields.io/twitter/follow/thetreelive?logo=twitter&style=for-the-badge" alt="thetreelive" /></a> </p>
 
 - 🔭 I’m currently not working 
