@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Pimentel</h1>
-<h3 align="center">A passionate fullstack and mobile developer from Brazil</h3>
+<h3 align="center">A passionate mobile and fullstack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmpimentel&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmpimentel" /> </p>
 <p align="left"> <a href="https://twitter.com/thetreelive" target="blank"><img src="https://img.shields.io/twitter/follow/thetreelive?logo=twitter&style=for-the-badge" alt="thetreelive" /></a> </p>
