@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as **Sr. Mobile Developer** at **SGM Tecnologia**.
 
-- 🌱 I’m currently learning **Swift** and **Flutter**
+- 🌱 I’m currently learning **Infra, DevOps, Swift** and **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://lucasmpimentel.github.io/](https://lucasmpimentel.github.io/)
 
